@@ -162,7 +162,7 @@ python main.py
 
 ### Example Output:
 ```
-EasyOCR result: A 123 ABC
+EasyOCR result: "أ ب ع 1456"
 ```
 
 ---
@@ -749,4 +749,5 @@ Potential enhancements:
 
 **Last Updated**: 2025
 **Version**: 1.0
+
 **Status**: Active & Maintained
